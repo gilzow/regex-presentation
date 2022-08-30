@@ -1,0 +1,15 @@
+foo
+foot
+foobar
+foo bar
+bar foo
+barfoo
+bar baz
+bazbar
+boofar
+boo far
+roobaf
+raboof 
+fobar
+robar
+robaf
