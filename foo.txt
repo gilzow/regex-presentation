@@ -16,3 +16,6 @@ robaf
 fooooobar
 faboor
 fboor
+foocar
+foodar
+foo]ar
