@@ -1,3 +1,4 @@
+/some/path/to/foo
 foo
 foot
 foobar
