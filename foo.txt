@@ -14,6 +14,12 @@ raboof
 fobar
 robar
 robaf
+theater
+theatre
+dish
+dishes
+cat
+cats
 fooooobar
 faboor
 fboor
@@ -22,7 +28,3 @@ foodar
 foo]ar
 carfoo
 foobarbar
-theater
-theatre
-dish
-dishes
