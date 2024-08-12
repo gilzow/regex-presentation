@@ -5,11 +5,13 @@ foobar
 foo bar
 bar foo
 barfoo
+coobar
 bar baz
 bazbar
 boofar
 boo far
 roobaf
+?oo
 raboof 
 fobar
 robar
